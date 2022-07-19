@@ -1,0 +1,105 @@
+h1{
+    color: blue;
+    text-align: center;
+
+}
+p{
+    color:yellow ;
+    text-align: center;
+    font-size: 45px;
+    background-color: rgb(57, 18, 199);
+}
+h2.double {border-style: double;}
+h2{
+    text-align: center;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  <h1>CSS font-family</h1>
+  <p class="p1">This is a paragraph, shown in the Times New Roman font.</p>
+  <p class="p2">This is a paragraph, shown in the Arial font.</p>
+  <p class="p3">This is a paragraph, shown in the Lucida Console font.</p>
+
+
+  body {
+    background-color: lightblue;
+  }
+
+  body {
+    background-image: url("https://i.pinimg.com/564x/b6/93/ac/b693ac9140a59936df50812e43e7e261.jpg")
+  }
+  
+  
+  body {
+    color: rgb(179, 255, 0);
+  }
+  
+  h1 {
+    color: green;
+  }
+
+
+  div {
+  height: 200px;
+  width: 50%;
+  background-color: rgb(233, 25, 198);
+}
+
+div {
+    background-color: rgb(11, 74, 146);
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .p2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+
+  ul.a {
+    list-style-type: circle;
+  }
+  
+  ul.b {
+    list-style-type: square;
+  }
+  
+  ol.c {
+    list-style-type: upper-roman;
+  }
+  
+  ol.d {
+    list-style-type: lower-alpha;
+  }
+
+  a {
+    color: hotpink;
+  }
